@@ -1,0 +1,10 @@
+streamlit
+transformers
+torch
+sentencepiece
+tf-keras
+pandas
+matplotlib
+seaborn
+rouge-score
+nltk
